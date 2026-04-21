@@ -1,23 +1,28 @@
-<!-- DO NOT IGNORE THE TEMPLATE!
+### 🔗 Linked issue
+
+<!-- Please ensure there is an open issue and mention its number. For example, "resolves #123" -->
+
+### 🧭 Context
+
+<!-- Brief background and why this change is needed -->
+
+<!-- High-level summary of what changed -->
+
+### 📚 Description
+
+<!-- Describe your changes in detail. Why is this change required? What problem does it solve? -->
+
+<!-- If you used AI tools to help with this contribution, please ensure the PR description and code reflect your own understanding.
+     Write in your own voice rather than copying AI-generated text. -->
+
+<!----------------------------------------------------------------------
+Before creating the pull request, please make sure you do the following:
+
+- Check that there isn't already a PR that solves the problem the same way. If you find a duplicate, please help us reviewing it.
+- Ensure that PR title follows conventional commits (https://www.conventionalcommits.org)
+- Update the corresponding documentation if needed.
+- Include relevant tests that fail without this PR but pass with it.
+- Add any additional context, tradeoffs, follow-ups, or things reviewers should be aware of.
 
 Thank you for contributing!
-
-Before submitting the PR, please make sure you do the following:
-
-- Read the [Contributing Guide](https://github.com/adrian-ub/contribute).
-- Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
-- Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
-- Ideally, include relevant tests that fail without this PR but pass with it.
-
--->
-
-### Description
-
-<!-- Please insert your description here and provide especially info about the "what" this PR is solving -->
-
-### Linked Issues
-
-
-### Additional context
-
-<!-- e.g. is there anything you'd like reviewers to focus on? -->
+----------------------------------------------------------------------->
